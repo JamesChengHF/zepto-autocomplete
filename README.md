@@ -1,5 +1,5 @@
 # Zepto Autocomplete Plugin
-根据https://github.com/Stayzilla/zepto-autocomplete插件修改，添加隐藏域传值，解决与SUI Mobile框架的冲突
+根据https://github.com/Stayzilla/zepto-autocomplete 插件修改，添加隐藏域传值，解决与SUI Mobile框架的冲突
 #Examples
 
 > 在引用插件之后，需要添加两个class（`autocomplete-input` and `autocomplete-result`）分别作为input输入框及显示区域.
